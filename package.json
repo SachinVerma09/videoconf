@@ -1,0 +1,20 @@
+{
+  "name": "videochat-webfrontend",
+  "version": "1.0.0",
+  "description": "Only two persons can join in one room ## Running the app on development server * `npm install` * `node index.js` * open `localhost:8000`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "socket.io": "^1.2.0"
+  },
+  "keywords": [],
+  "devDependencies": {}
+}
